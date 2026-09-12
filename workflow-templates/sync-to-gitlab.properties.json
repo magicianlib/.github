@@ -1,0 +1,9 @@
+{
+  "name": "Sync to GitLab",
+  "description": "Automatically mirror your main branch to GitLab on push.",
+  "iconName": "gitlab",
+  "categories": [
+    "Continuous Integration"
+  ],
+  "file-name": "sync-to-gitlab.yml"
+}
